@@ -5,9 +5,6 @@
 ### Setup Prerequisities
 
 #### Docker:
-
-* Download links for Docker for Windows: https://www.docker.com/docker-windows
-* Download links for Docker for Linux: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu
 * Download links for Docker for Mac: https://www.docker.com/docker-mac
 
 Command to test: `docker version`
