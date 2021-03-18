@@ -29,7 +29,7 @@ Command to test: `minikube version`
 
 
 ### Docker Image:
-* [karthequian/helloworld:latest](https://hub.docker.com/r/karthequian/helloworld/)
+* [karthequian/helloworld:latest](https://github.com/karthequian/docker-helloworld)
 
 
 ### Starting up minikube
