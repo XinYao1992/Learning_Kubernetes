@@ -71,3 +71,6 @@ To view the final user interface, use the minikube service command.
 `minikube service helloworld`
 
 This will open your web browser to your application that is running in Kubernetes!
+
+### Next, learn how to bootstrap a Kubernetes cluster
+[Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
